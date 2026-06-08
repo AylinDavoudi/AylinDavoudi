@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'MyHandwriting';
-  src: url('assets/Aylinhr-Regular.ttf') format('truetype'),
-       url('assets/Aylinhr-Regular.otf') format('opentype');
+  src: url('Assets/Aylinhr-Regular.ttf') format('truetype'),
+       url('Assets/Aylinhr-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
